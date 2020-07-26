@@ -9,6 +9,7 @@ This is a Node CLI that takes in information about employees and generates an HT
 ### App working example
 
 ![Git](file.gif)
+[Video Link](https://drive.google.com/file/d/1ACN16ZtVlE6LCpo3I6FqRqkGz-EcP6DB/view?usp=sharing)
 
 ![Foto1](Capture1.JPG)
 
